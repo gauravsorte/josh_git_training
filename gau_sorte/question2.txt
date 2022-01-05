@@ -1,0 +1,2 @@
+To add another remote repositories use :- git remote add <name> <url>
+ 
